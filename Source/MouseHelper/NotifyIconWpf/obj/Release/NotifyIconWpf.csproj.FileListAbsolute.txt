@@ -1,0 +1,6 @@
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Release\NotifyIconWpf.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Release\Hardcodet.Wpf.TaskbarNotification.pdb

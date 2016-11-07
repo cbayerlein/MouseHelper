@@ -1,0 +1,40 @@
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\bin\Debug\Windowless Sample.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\bin\Debug\Windowless Sample.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\bin\Debug\ManagedWinapi.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\MainWindow.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\App.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\MainWindow.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\App.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Windowless Sample_MarkupCompile.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Windowless Sample_MarkupCompile.lref
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\NotifyIconResources.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Windowless Sample.g.resources
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Windowless Sample.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\Windowless Sample\obj\Debug\Windowless Sample.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Playground.exe.config
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Playground.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Playground.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Dumper.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\ManagedWinapi.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Dumper.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MainWindow.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\App.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MainWindow.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\App.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground_MarkupCompile.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground_MarkupCompile.lref
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\NotifyIconResources.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground.g.resources
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Playground.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Overlay.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Overlay.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\MouseHelper.exe.config

@@ -1,0 +1,25 @@
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\MouseHelper.exe.config
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\MouseHelper.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\MouseHelper.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Dumper.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\ManagedWinapi.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Dumper.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MainWindow.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\App.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MainWindow.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Overlay.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\App.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper_MarkupCompile.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper_MarkupCompile.lref
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\NotifyIconResources.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\Overlay.baml
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper.g.resources
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Windowless Sample\obj\Debug\MouseHelper.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\MouseHelper\bin\Debug\MouseHelper.exe.config
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\MouseHelper\obj\Debug\MouseHelper.exe
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\MouseHelper\obj\Debug\MouseHelper.pdb

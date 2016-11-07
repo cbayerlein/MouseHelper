@@ -1,0 +1,10 @@
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\NotifyIconWpf\obj\Debug\NotifyIconWpf.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\wpf-notifyicon\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Debug\NotifyIconWpf.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\NotifyIconWpf\obj\Debug\Hardcodet.Wpf.TaskbarNotification.pdb

@@ -1,0 +1,5 @@
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Dumper\bin\Release\Dumper.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Dumper\bin\Release\Dumper.pdb
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Dumper\obj\Release\Dumper.csprojResolveAssemblyReference.cache
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Dumper\obj\Release\Dumper.dll
+C:\Users\thalon\Documents\Visual Studio 2015\Projects\MouseHelper\Dumper\obj\Release\Dumper.pdb
