@@ -7,6 +7,6 @@ The software is in early alpha. There are many features I'd like to add (like a 
 
 **If you are interressted in contributing or beta-testing; I'd really appreciate any help!**
 
-## Instalation
+## Installation
 
 To try the software out just download the mousehelper.zip in the release directory and unpack to a directory on your local hard-drive. Then start the exe-file. If you see a little triangle in your system tray, the app is running and waiting for the hot-key.
